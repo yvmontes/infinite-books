@@ -4,6 +4,8 @@ Search for books using the Google Books API by typing in a title and clicking on
 The user can view the book which will bring them to the page on Google Books by clicking "View" in the results for the search.
 Click "Save" to save the book to the database.
 
+Demo: https://infinite-books.herokuapp.com/
+
 ## Technologies Used
 * `React`
 * `Node`
@@ -12,4 +14,6 @@ Click "Save" to save the book to the database.
 
 ## How to Install
 Clone the repository and run `npm install`. Run `mongod` to activate the MongoDB. Then run `npm start` and your browser will automatically open to localhost:3000
+
+
 
